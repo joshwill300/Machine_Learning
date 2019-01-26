@@ -1,4 +1,4 @@
-# Given a data set of string protien families and another set of strings of a protien sequence
+# Given a data set of string protien families and another set with strings of protien sequences
 
 import numpy as np
 import pandas as pd
